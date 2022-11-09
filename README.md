@@ -2,7 +2,7 @@
 This assignment which was given for the Algorithmics DATA Structure concept was really very challenging and tough. But after analyzing and understanding each function and what it required as parameters, it was then possible to design and make it.
 Still the main function was not successful as expected since I was not able to understand and implement although so much resources were available.
 Time was very limited taking into consideration that as a working person in a much-demanded company where my presence is utmost important for urgent problematic solving and analysis. But still I was able to present a program instead of nothing.
-The program required several JAVA chapters understandings where the acquired knowledge was very important to be applied. Overall, I am very pleased with the programing since I am at a very beginner level and I was
+The program required several JAVA chapters understandings where the acquired knowledge was very important to be applied. Overall, I am very pleased with the programing since I am at a very beginner level.
 
 The program compromises of 2 main parts that is called by the main function.
 • main( )
